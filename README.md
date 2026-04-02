@@ -46,6 +46,6 @@ Analyze sales performance, product insights, and customer behavior to support bu
 
 ## 📸 Dashboard Preview
 
-![Overview](images/overview.png)
+![Ecutive Overview](images/overview.png)
 ![Sales](images/sales.png)
 ![Customers](images/customers.png)
