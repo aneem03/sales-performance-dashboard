@@ -47,5 +47,5 @@ Analyze sales performance, product insights, and customer behavior to support bu
 ## 📸 Dashboard Preview
 
 ![Ecutive Overview](https://github.com/aneem03/sales-performance-dashboard/blob/main/Executive%20Overview%20.png)
-![Sales](images/sales.png)
+![Sales](https://github.com/aneem03/sales-performance-dashboard/blob/main/Sales%20Deep%20Dive.png)
 ![Customers](https://github.com/aneem03/sales-performance-dashboard/blob/main/Customer%20Insights%20.png)
